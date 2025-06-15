@@ -61,6 +61,6 @@ All rights reserved. This project is not licensed for unauthorized use, distribu
 
 ## Contact
 
-Ekrem ([Your GitHub Username](https://github.com/YourUsername)) - (You can add your email or LinkedIn if you wish)
+Ekrem ([My Github](https://github.com/yakupozcan)) - (You can add your email or LinkedIn if you wish)
 
-Project Link: [https://github.com/YourUsername/ekremsort](https://github.com/YourUsername/ekremsort)
+Project Link: [https://github.com/yakupozcan/ekremsort](https://github.com/yakupozcan/ekremsort)
