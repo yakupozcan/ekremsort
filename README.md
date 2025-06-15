@@ -25,7 +25,7 @@ To get this project up and running on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/ekremsort.git](https://github.com/YourUsername/ekremsort.git)
+    git clone [https://github.com/yakupozcan/ekremsort.git](https://github.com/yakupozcan/ekremsort.git)
     ```
     (Replace `YourUsername` with your actual GitHub username.)
 2.  **Open in Visual Studio:**
